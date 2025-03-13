@@ -57,6 +57,7 @@ st.markdown("""
 * 🌿 1순위 환경
 * 👤2순위 소비자행동
 * 🏥 3순위 임상병리...?
+
 아직 뚜렷하게 관심이있는 도메인은 확실하지 않습니다.
 """)
 st.markdown("</div>", unsafe_allow_html=True)
@@ -66,6 +67,7 @@ st.markdown("<h2 class='header'>자기소개</h2>", unsafe_allow_html=True)
 st.markdown("<div class='highlight'>", unsafe_allow_html=True)
 st.write("""
 안녕하세요! 저는 데이터분석을 공부하고 있는 장선희입니다. 취미로는 밴드부에서 드럼을 연주하고 있고, 런닝을 좋아합니다. 
+
 멋쟁이사자처럼 부트캠프에서 멋있으신 동기분들과 함께 프로젝트를 하며 성장하여, 실력있고 일 잘하는 데이터분석가가 될 것입니니다.
 """)
 st.markdown("</div>", unsafe_allow_html=True)
